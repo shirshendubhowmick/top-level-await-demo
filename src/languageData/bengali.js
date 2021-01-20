@@ -1,0 +1,1 @@
+const greetings = "নমস্কার";
